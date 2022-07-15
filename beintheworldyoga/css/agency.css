@@ -11,12 +11,12 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #039ece; }
+  color: #040303; }
   a:hover {
     color: #fec503; }
 
 .text-primary {
-  color: #039ece !important; }
+  color: #030303 !important; }
 
 h1,
 h2,
@@ -134,7 +134,7 @@ header.masthead {
   text-align: center;
   color: white;
   background-color: #FFF;
-  background-image: url("../img/jenna-header.png");
+  background-image: url("../img/background-1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
